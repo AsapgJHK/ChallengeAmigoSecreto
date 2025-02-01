@@ -10,7 +10,8 @@ function agregarAmigo() {
 
     nombreAmigoAgregado = document.querySelector('.input-name').value.trim();
     document.querySelector('.input-name').value ='';
-    document.querySelector('.result-list').innerHTML = '';
+    let limpiarAmigoSecreto = document.querySelector('.result-list');
+    limpiarAmigoSecreto.innerHTML = '';
      
     if (nombreAmigoAgregado < 1) {
         alert ('Por favor ingresar un nombre válido');
