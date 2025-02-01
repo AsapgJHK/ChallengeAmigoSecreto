@@ -18,3 +18,5 @@ Estos son los pasos a seguir para proceder a realizar el sorteo:<br>
 RESTRICCIONES:<br>
 1.- No puedes ingresar espacios vacíos.<br>
 2.- No se puede repetir un mismo nombre.
+
+https://img.shields.io/badge/estado-conclu%C3%ADdo-lightgreen
