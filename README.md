@@ -3,7 +3,7 @@
 Hola a todos quienes visiten este repositorio.<br>
 
 Este repositorio contiene el código que desarrollé para el Challenge del Amigo Secreto, como parte de la formación de ONE impartido por la plataforma de Alura.<br>
-El proyecto es acerca de crear un código para una página web, para que quienes necesiten realizar un sorteo de amigo secreto, puedn hacerlo de manera eficaz y sencilla.<br>
+El proyecto es acerca de crear un código para una página web, para que quienes necesiten realizar un sorteo de amigo secreto, pueden hacerlo de manera eficaz y sencilla.<br>
 
 CÓMO USAR:<br>
 Estos son los pasos a seguir para proceder a realizar el sorteo:<br>
