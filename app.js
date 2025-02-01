@@ -4,8 +4,6 @@ let nombreAmigoAgregado;
 console.log(listaAmigos);
 console.log(listaAmigos.length);
 
-
-
 function agregarAmigo() {
 
     nombreAmigoAgregado = document.querySelector('.input-name').value.trim();
