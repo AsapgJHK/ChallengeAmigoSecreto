@@ -1,3 +1,5 @@
+![Badge Concluído](https://img.shields.io/badge/estado-conclu%C3%ADdo-lightgreen)
+
 # ChallengeAmigoSecreto
 
 Hola a todos quienes visiten este repositorio.<br>
